@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseKotlinTest1</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="registre_se">Registre-se</string>
+    <string name="j_tem_uma_conta_clique_aqui">Já tem uma conta? Clique aqui !!!</string>
+    <string name="username">Username</string>
+    <string name="volte_para_registrar_se">Volte para registrar-se</string>
+    <string name="feito_crie_uma_conta_para_mim">Feito! Crie uma conta para mim!</string>
+    <string name="quero_criar_uma_conta">Quero criar uma conta:</string>
+    <string name="o_seu_nome">O Seu Nome</string>
+    <string name="a_sua_senha">A Sua Senha</string>
+    <string name="o_seu_e_mail">O Seu e-mail</string>
+    <string name="astros_match">ASTROS MATCH</string>
+</resources>
